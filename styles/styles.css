@@ -1,6 +1,11 @@
+body {
+    margin: 0;
+}
+
 .header-page {
-    width: 674px;
+    width: 1440px;
     height:  732px;
+     margin: 0;
     background-image: url("/img/Rectangle.png");
     background-repeat: no-repeat;
     border: 1px solid #000000;
