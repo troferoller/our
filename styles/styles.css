@@ -1,0 +1,8 @@
+.header-page {
+    width: 674px;
+    height:  732px;
+    background-image: url("/img/Rectangle.png");
+    background-repeat: no-repeat;
+    border: 1px solid #000000;
+box-sizing: border-box;
+}
